@@ -6,12 +6,12 @@ Clone this repository
 
 HTTPS
 ```
-https://github.com/sabinbaniya/portfolio_website.git
+https://github.com/sabinbaniya/portfolio-website.git
 ```
 
 SSH
 ```
-git@github.com:sabinbaniya/portfolio_website.git
+git@github.com:sabinbaniya/portfolio-website.git
 ```
 
 1. Open up the folder in your text editor & start editing the texts in index.html file. 
